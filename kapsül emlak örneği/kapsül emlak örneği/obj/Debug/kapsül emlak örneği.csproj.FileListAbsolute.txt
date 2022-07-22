@@ -1,0 +1,8 @@
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\bin\Debug\kapsül emlak örneği.exe.config
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\bin\Debug\kapsül emlak örneği.exe
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\bin\Debug\kapsül emlak örneği.pdb
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\obj\Debug\kapsül emlak örneği.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\obj\Debug\kapsül emlak örneği.csproj.SuggestedBindingRedirects.cache
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\obj\Debug\kapsül emlak örneği.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\obj\Debug\kapsül emlak örneği.exe
+C:\Users\90534\source\repos\kapsül emlak örneği\kapsül emlak örneği\obj\Debug\kapsül emlak örneği.pdb
